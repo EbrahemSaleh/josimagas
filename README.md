@@ -3,7 +3,7 @@
 **Follow me:** 
 
  <a href="https://twitter.com/josi_berna">
-  <img align="left" alt="José Magalhães | Twitter" width="21px" src="assets/twitter.svg" />
+  <img align="left" alt="José Magalhães | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
 </a>
 
 
